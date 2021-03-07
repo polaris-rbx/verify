@@ -1,0 +1,30 @@
+{
+  "name": "@neztore/rbx-verify",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the verify.nezto.re Roblox verification API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neztore",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polaris-rbx/verify.git"
+  },
+  "keywords": [
+    "Roblox",
+    "verify",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/polaris-rbx/verify/issues"
+  },
+  "homepage": "https://github.com/polaris-rbx/verify#readme"
+}
